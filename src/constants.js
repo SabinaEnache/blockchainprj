@@ -1,7 +1,7 @@
   export const TOKENBANIT_CONTRACT = {
-    //address: "0x5fbdb2315678afecb367f032d93f642f64180aa3",
+    address: "0x5fbdb2315678afecb367f032d93f642f64180aa3",
     //address: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
-    address: "0x0DCd1Bf9A1b36cE34237eEaFef220932846BCD82",
+    //address: "0x0DCd1Bf9A1b36cE34237eEaFef220932846BCD82",
     abi: [
       {
         "inputs": [],
@@ -144,9 +144,9 @@
   };
   
   export const PUNCTEFIDELITATE_CONTRACT = {
-    //address: "0xe7f1725e7734ce288f8367e1bb143e90bb3f0512",
+    address: "0xe7f1725e7734ce288f8367e1bb143e90bb3f0512",
     //address: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
-    address: "0x9A676e781A523b5d0C0e43731313A708CB607508",
+    //address: "0x9A676e781A523b5d0C0e43731313A708CB607508",
     abi: [
       {
         "inputs": [
